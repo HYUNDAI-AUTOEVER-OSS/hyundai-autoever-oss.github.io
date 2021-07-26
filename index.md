@@ -1,6 +1,6 @@
 ---
 layout: page
-title: The first step to becoming a mobility software provider
+title: Mobility software provider
 subtitle: Open Source Governance at HYUNDAI AUTOEVER
 cover-img: /assets/img/autoeverhome.jpg
 ---
