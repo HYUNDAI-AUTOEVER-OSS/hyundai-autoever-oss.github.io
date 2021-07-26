@@ -13,15 +13,12 @@ author: HYUNDAI AUTOEVER OSS
 # 예를 들어 ETRI 라는 항목을 네비게이션 바에 추가하고 싶은 경우, etri.md 파일 생성 후 ETRI: "etri" 라고 지정.
 navbar-links:
   #Career: "career"
-  #About: "about"
-  #ETRI : "ETRI"
   #Publication: "publication"
   #Blog: "blog"
   About : "About"
   Guide : "Guide"
   Project: "project"
-  
-  #Projects: "projects"
+
   GitHub: "https://github.com/rchworld"
   #Google Scholar: "https://scholar.google.com/citations?user=seokhoson"
 
@@ -44,10 +41,10 @@ round-avatar: true
 # If you don't want to show a link to an RSS feed, set rss to "false".
 social-network-links:
   email: "changhan.ryu@hyundai-autoever.com"
-  facebook: hyundai-autoever
+  #facebook: hyundai-autoever
   github: rchworld
-  linkedin: hyundai-autoever
-  twitter: hautoever
+  #linkedin: hyundai-autoever
+  #twitter: hautoever
 #  rss: true
 #  reddit: yourname
 #  xing: yourname
