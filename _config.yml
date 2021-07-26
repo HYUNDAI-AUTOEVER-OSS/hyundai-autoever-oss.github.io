@@ -7,7 +7,7 @@ title: HYUNDAI AUTOEVER OSS
 description: Open Source Guides at HYUNDAI AUTOEVER
 
 # [수정필요] 웹페이지 아래에 나오는 웹사이트 저자 이름
-author: CHANG HAN, RYU
+author: HYUNDAI AUTOEVER TECHNOLOGY PLANNING TEAM
 
 # [조건부수정] 네비게이션 바에 포함되는 항목 (명칭 수정, 추가, 삭제 가능)
 # 예를 들어 ETRI 라는 항목을 네비게이션 바에 추가하고 싶은 경우, etri.md 파일 생성 후 ETRI: "etri" 라고 지정.
@@ -38,10 +38,10 @@ round-avatar: true
 # Uncomment the links you want to show and add your information to each one.
 # If you don't want to show a link to an RSS feed, set rss to "false".
 social-network-links:
-  email: "shsonkorea@etri.re.kr"
-  facebook: seokho.son.korea
-  github: seokho-son
-  linkedin: seokho-son
+  email: "changhan.ryu@hyundai-autoever.com"
+  facebook: hyundai autoever
+  github: rchworld
+  linkedin: hyundai autoever
 #  twitter: daattali
 #  rss: true
 #  reddit: yourname
