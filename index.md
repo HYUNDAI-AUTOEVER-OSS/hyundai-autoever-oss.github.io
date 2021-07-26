@@ -1,8 +1,8 @@
 ---
 layout: page
-title: 모빌리티 혁신과 미래를 선도하는 기업
+title: The first step to becoming a mobility software provider
 subtitle: Open Source Governance at HYUNDAI AUTOEVER
-cover-img: /assets/img/itu-seokho-m4.jpg
+cover-img: /assets/img/autoeverhome.jpg
 ---
 
 <br/>
