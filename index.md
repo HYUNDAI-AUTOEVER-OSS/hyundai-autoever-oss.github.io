@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Cloud Researcher
-subtitle: Artificial Intelligence Research Laboratory, ETRI
+title: 모빌리티 혁신과 미래를 선도하는 기업
+subtitle: Open Source Governance at HYUNDAI AUTOEVER
 cover-img: /assets/img/itu-seokho-m4.jpg
 ---
 
