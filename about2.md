@@ -1,6 +1,5 @@
-layout	title
-page
-About
+###layout	title###
+page About
 
 About
 Hyundai AutoEver, a "mobility software provider” that reliably, efficiently, and innovatively supports software and infrastructure across in-car and out-car areas, builds a mobility software platform to flexibly connect hardware and software, and is creating new value for the upcoming mobility ecosystem.
