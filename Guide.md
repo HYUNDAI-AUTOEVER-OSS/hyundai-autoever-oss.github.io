@@ -16,17 +16,16 @@ Organizations that use open source or contribute to the open source community ha
 * Process
 * Tool
 * Education
-
-<br>
 <br>
 
-```note
 ## Reference
 
-- Linux Foundation resources : [https://www.linuxfoundation.org/resources/open-source-guides](https://www.linuxfoundation.org/resources/open-source-guides/creating-an-open-source-program/)
-- OpenChain : [https://www.openchainproject.org/resources](https://www.openchainproject.org/resources)
-- sktelecom : [https://sktelecom.github.io/en/guide/](https://sktelecom.github.io/en/guide/)
-- LG : [https://oss.lge.com/guide/](https://oss.lge.com/guide/)
+```
+- Linux Foundation resources : [https://www.linuxfoundation.org/resources/open-source-guides]
+- OpenChain : [https://www.openchainproject.org/resources]
+- sktelecom : [https://sktelecom.github.io/en/guide/]
+- LG : [https://oss.lge.com/guide/]
+
 ```
 
-<br>
+
