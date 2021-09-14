@@ -82,18 +82,21 @@ You can find Hyundai AutoEver's open source policy through the Open Source Compl
    Provide opinions on requests for review regarding contributions to open source projects.
  
 5. Training and Evaluation
+
    All Hyundai AutoEver employees involved in software distribution are familiar with open source policies through training and evaluation.
 All persons implementing this policy are to receive, and be evaluated on, basic training covering the competencies required for their roles.
 The training and evaluation program covers the goals of Hyundai AutoEver's open source policy, the role of participants in contributing to improving compliance, and the impact on the company and individuals when compliance is not observed.
 Evaluation records are to be maintained for a minimum of three years.
  
 6. Open Source Usage Policy
+
    In order to use open source, what an open source license is must first be identified, and the obligations required by the license must be reviewed and confirmed. As such, in the software to be supplied, open source and the respective license obligations are identified, and compliance activities according to the license obligations are conducted when distributing the software.
    In order to perform effectively, follow the Hyundai AutoEver open source compliance processes.
 The Open Source Manager should consult with the Legal Team with any questions regarding the processes required for open source license compliance.
 The results of the decision to use open source and the relevant evidence are to be recorded in the open source issue tracking system (Open Source Compliance).
  
 7. External Inquiry Response Policy
+
    Contact information is to be provided for external inquiries/requests related to open source for software distributed by Hyundai AutoEver. To this end, when distributing software, provide the email address of the Open Source Center, and register contact information with the Linux Foundation's Open Compliance Directory (https://compliance.linuxfoundation.org/references/open-compliance-directory).
 
    Anyone who receives an inquiry related to open source from an external source should contact the Open Source Manager. The Open Source Manager will process the inquiry and assign it to the appropriate person or organization within the company. The Open Source Manager has overall responsibility for assigning and handling inquiries.
@@ -106,11 +109,13 @@ The results of the decision to use open source and the relevant evidence are to 
     5. Record the above in the open source issue tracking system (Open Source Compliance).
  
 8. Open Source Contribution Policy
+
    In order to add to the business value of open source, Hyundai Autoever encourages participation in and contribution towards external open source projects. However, caution should be exercised against unintentional disclosures or infringement of intellectual property.
 In order to contribute to an open source project related to the company's work, there must be approval from the Software Development Team’s leader.
 Review the open source license and patent terms of the open source project. In addition, prior to contributing to open source projects, review the signature of documents such as the Developer Certificate of Origin (DCO) and Contributor License Agreement (CLA) required by the projects. If necessary, request a review from the Legal Team.
  
 9. OpenChain Compliance
+
    Hyundai AutoEver supports and actively participates in the spirit of the Linux Foundation's OpenChain project to improve open source compliance in the software supply chain.
 Hyundai AutoEver's open source policy is designed to comply with OpenChain Specification 2.0.
 Hyundai AutoEver affirms that the open source programs, including Hyundai AutoEver's open source policy, complies with all requirements of OpenChain Specification 2.0.
