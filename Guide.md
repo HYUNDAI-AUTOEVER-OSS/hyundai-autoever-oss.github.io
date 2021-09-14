@@ -242,10 +242,12 @@ Registration step results
 #### Step 7. Notice
 <img src="/assets/img/Step 7. Notice.jpg" alt='7'></img><br/>
 
-   One of the main duties when using open source is the duty of notice. To this end, the following matters are performed:
+   One of the main duties when using open source is the duty of notice. To this end, the following matters are performed: 
    
 •	Provide copyright and license notices.
+
 •	Provide a copy of the license.
+
 •	Inform end users how to obtain copies of the source code (if applicable).
 
 ```
@@ -262,9 +264,13 @@ These matters are reported to the relevant departments so that they can be inclu
 <img src="/assets/img/Step 8. Pre-Distributions Verifications.jpg" alt='8'></img><br/>
 
    In this step, checks are performed to ensure the following matters:
+   
 •	Collect the source code to be published as required by the open source license.
+
 •	The collected source code should match the binary loaded in the product.
+
 •	Remove inappropriate comments from the source code.
+
 •	Appropriate notices are included with the product. Herein, a written offer for end users to receive the source code should also be provided.
 
 ```
