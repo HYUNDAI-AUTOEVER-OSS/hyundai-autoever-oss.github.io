@@ -102,11 +102,17 @@ The results of the decision to use open source and the relevant evidence are to 
    Anyone who receives an inquiry related to open source from an external source should contact the Open Source Manager. The Open Source Manager will process the inquiry and assign it to the appropriate person or organization within the company. The Open Source Manager has overall responsibility for assigning and handling inquiries.
 
    In case of non-compliance issues raised from an external source regarding software distributed by Hyundai AutoEver, the Open Source Manager will handle it as follows:
+   
     1. Confirm the receipt of the inquiry and specify appropriate resolution timelines.
+    
     2. Confirm whether the inquiry is related to an actual issue (if not, respond to the inquiry within three business days).
+    
     3. If there is an actual issue, determine an appropriate response method within three days and respond to the inquirer with a response plan.
+    
     4. Operate according to the chosen response plan, and notify the inquirer that the issue has been resolved within 30 days.
+    
     5. Record the above in the open source issue tracking system (Open Source Compliance).
+    
  
 #### 8. Open Source Contribution Policy
 
@@ -131,7 +137,9 @@ As such, it is necessary to identify the license obligations of the open source 
 Hyundai AutoEver's open-source compliance processor defines a series of processes for managing open sources used in the software to be distributed. This process includes the following matters:
 
     1. Identify all open sources used in the software to be distributed.
+    
     2. Identify and track all obligations arising from the identified open source.
+    
     3. Activities to fulfill all obligations
 
 In order to perform the above effectively, all software supply managers of Hyundai AutoEver will perform the following ten steps.
@@ -195,8 +203,11 @@ Results of step for resolving issues
 Once all identified issues have been resolved, the review step follows. The procedure of the review step is as follows.
 
 1. Software PL: Submit a request for the approval of use of open source included in the software.
+
 2. Open Source Manager: Upon receipt of a request for approval of use of open source, confirm whether all information is included without omission and proceed with the review process.
+
 3. Source code auditor: Confirm whether all issues are resolved by auditing source code.
+
 4. Legal Team: Review licensing issues.
 
 ```
