@@ -15,7 +15,7 @@ Organizations that use open source or contribute to the open source community ha
 
    OSPO (Open Source Program Office) means a center organization that manages open source and reduce open source compliance risk in the company. It can play a role to build the overall open source strategy of the company such as auditing and constituting other policies on the use and distribution of open source, training for the software developers in the company, spreading an open source culture and activating participation in open source community.
 
-* Policy
+* Policy//
    After the organization has been configured, the next step is to establish a policy. Open source policy is necessary to protect intellectual property and mitigate compliance risk when organizations that distribute software use or contribute to open source. For efficient open source compliance activities, each company needs to establish the policy that matches the software type and business type. The following discloses how Hyundai Autoever has established an open source policy.
 
 1. Purpose
@@ -43,7 +43,7 @@ You can find Hyundai AutoEver's open source policy through the Open Source Compl
    In order to ensure the effective implementation of this policy, the following roles and responsibilities are defined as well as the competencies required of individuals in each role.
 The chief officer responsible for developing and distributing Hyundai AutoEver's software must ensure that a person is designated to be in charge of each role and responsibility, and that appropriate time and funds are allocated to fulfill each role. If the person in charge of each role does not have adequate support for their respective role, the problem must be resolved through the Open Source Manager. If not properly resolved, the issue can be raised through the Open Source Steering Committee.
 
-A) Open Source Manager
+      A) Open Source Manager
  The Open Source Manager is responsible for ensuring the compliance of Hyundai AutoEver's products that utilize open source, and is responsible for the following:
 - Review, improve and disseminate open source policies.
 - Review and assign roles and responsibilities within the company for efficient open source policy implementation.
@@ -54,7 +54,7 @@ A) Open Source Manager
 The Open Source Manager must understand the open source-related intellectual property risks and development processes in order to perform their duties, and must have competency in communication skills.
 As of July 2021, the Open Source Manager is Changhan Ryu, head of the Technical Planning Team.
  
-B) Open Source Center
+      B) Open Source Center
 The Open Source Center specializes in open source compliance and defines the processes for effectively achieving compliance. The Open Source Manager has a leadership role, and the members of the center are responsible for assisting the Open Source Manager carry out the necessary responsibilities in an orderly fashion. The Open Source Center is responsible for the following:
 - Develop and provide practical compliance training.
 - Select, develop and distribute compliance tools.
@@ -63,12 +63,12 @@ The Open Source Center specializes in open source compliance and defines the pro
 - Maintain records listing use of open source.
 - Develop and maintain a website for notices related to open source and disclosure of source codes.
  
-C) Software Development Team
+      C) Software Development Team
 The Software Development Team identifies open source to be used for software development, and submits a request for the approval of open source use to the Open Source Center.
 The Software Development Team is responsible for fulfilling the obligations of the open source licenses applicable to the open source used for software development.
 The Software Development Team understands open source policies and processes as well as software architecture.
  
-D) Legal Team
+      D) Legal Team
 The Legal Team interprets open source licenses and obligations. Provides guides and guidance to the software development team for fulfilling these obligations. Furthermore, the Legal Team advises on licensing and intellectual property issues, including conflicts caused by incompatible open source licenses. If necessary, participates in open source use reviews and approval decisions.
 Provide opinions on requests for review regarding contributions to open source projects.
  
