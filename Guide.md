@@ -19,20 +19,20 @@ Organizations that use open source or contribute to the open source community ha
 
    After the organization has been configured, the next step is to establish a policy. Open source policy is necessary to protect intellectual property and mitigate compliance risk when organizations that distribute software use or contribute to open source. For efficient open source compliance activities, each company needs to establish the policy that matches the software type and business type. The following discloses how Hyundai Autoever has established an open source policy.
 
->  > 1. Purpose
-   This policy was established to ensure that all organizations using open source conduct open source compliance activities. This policy also provides a way for employees to understand the value of open source and contribute to the open source community.
+* 1. Purpose
+** This policy was established to ensure that all organizations using open source conduct open source compliance activities. This policy also provides a way for employees to understand the value of open source and contribute to the open source community.
 Hyundai AutoEver's employees contribute to the effectiveness of the policy and the level of compliance of the company by understanding the basis and content of this policy and faithfully performing the necessary activities.
-It is important to comply with this policy. Non-compliance may result in the following:
-- Legal claims by the holder of copyrights or other intellectual property rights for the code in use.
-- Claims from customers
-- Unintentional disclosure of company’s proprietary code
-- Fines for breach of license obligations
-- Loss of reputation/revenue
-- Violation of contracts with suppliers and customers
-For this reason, Hyundai AutoEver takes violations of this code seriously, and individuals who violate the code may be subject to disciplinary action by the company.
+*** It is important to comply with this policy. Non-compliance may result in the following:
+**** - Legal claims by the holder of copyrights or other intellectual property rights for the code in use.
+**** - Claims from customers
+**** - Unintentional disclosure of company’s proprietary code
+**** - Fines for breach of license obligations
+**** - Loss of reputation/revenue
+**** - Violation of contracts with suppliers and customers
+*** For this reason, Hyundai AutoEver takes violations of this code seriously, and individuals who violate the code may be subject to disciplinary action by the company.
  
->  > 2. Application
-   This open source policy applies to "all products provided or distributed externally by the company."
+* 2. Application
+** This open source policy applies to "all products provided or distributed externally by the company."
 The internal use of open source is not within the scope of this policy.
 Additionally, this policy applies when Hyundai AutoEver employees contribute to open source projects or disclose Hyundai AutoEver's code as open source.
 You can find Hyundai AutoEver's open source policy through the Open Source Compliance.
