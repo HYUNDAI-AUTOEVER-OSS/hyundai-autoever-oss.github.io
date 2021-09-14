@@ -15,5 +15,5 @@ Any company that develops and distributes software using open source must establ
 ```
 Company: HYUNDAI AUTOEVER
 Office: 510, Teheran-ro, Gangnam-gu, Seoul, Republic of Korea
-Email: oss@hyundai-autoever.com
+Email: changhan.ryu@hyundai-autoever.com
 ```
