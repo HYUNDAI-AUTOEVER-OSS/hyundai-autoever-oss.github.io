@@ -12,6 +12,8 @@ Using the open source when developing the software has become a must, not an opt
 
 Organizations that use open source or contribute to the open source community have the necessary activities to protect their intellectual property and mitigate compliance risks. These activities are called open source compliance activities, and there are five essential elements to establish open source compliance.
 * Organization
+OSPO (Open Source Program Office) means a center organization that manages open source and reduce open source compliance risk in the company. It can play a role to build the overall open source strategy of the company such as auditing and constituting other policies on the use and distribution of open source, training for the software developers in the company, spreading an open source culture and activating participation in open source community.
+
 * Policy
 * Process
 * Tool
