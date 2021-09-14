@@ -15,7 +15,8 @@ Organizations that use open source or contribute to the open source community ha
 
    OSPO (Open Source Program Office) means a center organization that manages open source and reduce open source compliance risk in the company. It can play a role to build the overall open source strategy of the company such as auditing and constituting other policies on the use and distribution of open source, training for the software developers in the company, spreading an open source culture and activating participation in open source community.
 
-* Policy//
+## Policy
+
    After the organization has been configured, the next step is to establish a policy. Open source policy is necessary to protect intellectual property and mitigate compliance risk when organizations that distribute software use or contribute to open source. For efficient open source compliance activities, each company needs to establish the policy that matches the software type and business type. The following discloses how Hyundai Autoever has established an open source policy.
 
 1. Purpose
@@ -106,10 +107,10 @@ Hyundai AutoEver affirms that the open source programs, including Hyundai AutoEv
 Hyundai AutoEver affirms that the open source programs, including Hyundai AutoEver's open source policy, are still carrying out activities to comply with all requirements of OpenChain Specification 2.0 18 months after confirming compliance with all requirements. 
 
 
-* Process
+## Process
 
-* Tool
-* Education
+## Tool
+## Education
 <br>
 
 ## Reference
