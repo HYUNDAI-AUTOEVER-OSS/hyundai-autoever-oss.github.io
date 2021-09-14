@@ -136,9 +136,32 @@ Hyundai AutoEver's open-source compliance processor defines a series of processe
 
 In order to perform the above effectively, all software supply managers of Hyundai AutoEver will perform the following ten steps.
 
-Step 1. Identification of Open Source
-// <img src="/assets/img/Step 1. Identification of Open Source.jpg" width="700px" height="350px" title="px(픽셀) 크기 설정" alt="1"></img><br/>
+#### Step 1. Identification of Open Source
+
 <img src="/assets/img/Step 1. Identification of Open Source.jpg" alt="1"></img><br/>
+
+   The identification step of open source is a review step for identifying open source components. The open source included in the software to be distributed is monitored, regardless of whether it is AutoEver's proprietary software or a third-party software. The method for identifying an open source is as follows.
+
+• Receive open source use request: A software developer informs the Open Source Manager or the Open Source Center that the software developer wants to use an open source for a specific product, and provides information on the use of an open source package for review and approval.
+
+• Auditing company-developed software: Since developers can create software by copying and importing the source code of an open source, the company-developed software is also audited.
+
+• Third-party software implementation (Due diligence)
+```
+Conditions for starting the identification step	
+- Receive request from developers for specific open-source use
+- Software auditing step in the development process
+- Third-party software acquisition and integration into development software
+```
+
+```
+Identification step results
+- Create a compliance record for open source
+- Source code scan target selection and request
+```
+
+
+
 
 
 ### Tool
