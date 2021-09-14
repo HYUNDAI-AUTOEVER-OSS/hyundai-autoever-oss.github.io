@@ -313,7 +313,17 @@ Distribution step results
  
  
 ### Tool
+
+For efficient open source compliance, there are many useful tools that automatically analyze open source license on source codes, as well as tools that help manage open source for each project.
+
+- Source Code Scanning Tool : BlackDuck, FOSSID
+- Open Source Management Tool : Confluence
+- Repository : Github
+- OSS Guide : Github.io 
+
+
 ### Education
+We are conducting open source basic education and open source advenced education programs.
 
 <br>
 
