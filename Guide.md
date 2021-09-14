@@ -49,7 +49,7 @@ You can find Hyundai AutoEver's open source policy through the Open Source Compl
    
    The chief officer responsible for developing and distributing Hyundai AutoEver's software must ensure that a person is designated to be in charge of each role and responsibility, and that appropriate time and funds are allocated to fulfill each role. If the person in charge of each role does not have adequate support for their respective role, the problem must be resolved through the Open Source Manager. If not properly resolved, the issue can be raised through the Open Source Steering Committee.
 
-##### A) Open Source Manager
+   A) Open Source Manager
 
    The Open Source Manager is responsible for ensuring the compliance of Hyundai AutoEver's products that utilize open source, and is responsible for the following:
     - Review, improve and disseminate open source policies.
@@ -60,7 +60,7 @@ You can find Hyundai AutoEver's open source policy through the Open Source Compl
     - Answer external inquiries regarding the use and compliance of open source.
    The Open Source Manager must understand the open source-related intellectual property risks and development processes in order to perform their duties, and must have competency in communication skills. As of July 2021, the Open Source Manager is Changhan Ryu, head of the Technical Planning Team.
  
- ##### B) Open Source Center
+   B) Open Source Center
 
    The Open Source Center specializes in open source compliance and defines the processes for effectively achieving compliance. The Open Source Manager has a leadership role, and the members of the center are responsible for assisting the Open Source Manager carry out the necessary responsibilities in an orderly fashion. The Open Source Center is responsible for the following:
    
@@ -71,12 +71,12 @@ You can find Hyundai AutoEver's open source policy through the Open Source Compl
     - Maintain records listing use of open source.
     - Develop and maintain a website for notices related to open source and disclosure of source codes.
  
- ##### C) Software Development Team
+   C) Software Development Team
    The Software Development Team identifies open source to be used for software development, and submits a request for the approval of open source use to the Open Source Center.
    The Software Development Team is responsible for fulfilling the obligations of the open source licenses applicable to the open source used for software development.
    The Software Development Team understands open source policies and processes as well as software architecture.
  
- ##### D) Legal Team
+   D) Legal Team
    The Legal Team interprets open source licenses and obligations. Provides guides and guidance to the software development team for fulfilling these obligations. Furthermore, the Legal Team advises on licensing and intellectual property issues, including conflicts caused by incompatible open source licenses. If necessary, participates in open source use reviews and approval decisions.
 
    Provide opinions on requests for review regarding contributions to open source projects.
@@ -138,7 +138,7 @@ In order to perform the above effectively, all software supply managers of Hyund
 
 #### Step 1. Identification of Open Source
 
-<img src="/assets/img/Step 1. Identification of Open Source.jpg" alt="1"></img><br/>
+<img src="/assets/img/Step 1. Identification of Open Source.jpg" alt="1"><br/>
 
    The identification step of open source is a review step for identifying open source components. The open source included in the software to be distributed is monitored, regardless of whether it is AutoEver's proprietary software or a third-party software. The method for identifying an open source is as follows.
 
@@ -160,7 +160,7 @@ Identification step results
 - Source code scan target selection and request
 ```
 #### Step 2. Auditing Source Code
-<img src="/assets/img/Step 2. Auditing Source Code.jpg" alt="2"></img><br/>
+<img src="/assets/img/Step 2. Auditing Source Code.jpg" alt="2"><br/>
 
 In the source code auditing step, source code analysis tools are used to scan the source code to discover open sources. BlackDuck HUB and FOSSID are used as a source code scanning tools. If an open source is found to have an unusable open source license, whether due to policy reasons such as GPL-3.0 or incompatibility due to a licensing conflict, it is to be marked as an issue and a solution should be requested from the development team.
 
@@ -176,7 +176,7 @@ Source code auditing step results
 ```
 
 #### Step 3. Resolving Issues
-<img src="/assets/img/Step 3. Resolving Issues.jpg" alt="3"></img><br/>
+<img src="/assets/img/Step 3. Resolving Issues.jpg" alt="3"><br/>
 Resolve all issues identified in the source code auditing step. Issues are assigned to the development team, and the Open Source Manager confirms whether that all issues are properly resolved.
 
 ```
@@ -190,7 +190,7 @@ Results of step for resolving issues
 ```
 
 #### Step 4. Reviews
-<img src="/assets/img/Step 4. Reviews.jpg" alt="4"></img><br/>
+<img src="/assets/img/Step 4. Reviews.jpg" alt="4"><br/>
 
 Once all identified issues have been resolved, the review step follows. The procedure of the review step is as follows.
 
@@ -210,7 +210,7 @@ Review step results
 ```
 
 #### Step 5. Approval
-<img src="/assets/img/Step 5. Approval.jpg" alt="5"></img><br/>
+<img src="/assets/img/Step 5. Approval.jpg" alt="5"><br/>
 
    The approval step follows once the review is completed. The OSRB either approves or rejects the use of open source. In case of rejection, an explanation of the reason and correction methods are suggested. Once the OSRB approves the use of the open source component, the development team begins preparing to fulfill the licensing obligations.
 
@@ -226,7 +226,7 @@ Approval step results
 
 #### Step 6. Registration
 
-<img src="/assets/img/Step 6. Registration.jpg" alt='6'></img><br/>
+<img src="/assets/img/Step 6. Registration.jpg" alt='6'><br/>
    Open source components approved for use are added to a software inventory (BOM) that tracks the usage of open sources. The BOM contains information such as the name of an open source component, version, software manager's name, name of the product that uses it, product version, and product release number.
    
 ```
@@ -240,7 +240,7 @@ Registration step results
 
 
 #### Step 7. Notice
-<img src="/assets/img/Step 7. Notice.jpg" alt='7'></img><br/>
+<img src="/assets/img/Step 7. Notice.jpg" alt='7'><br/>
 
    One of the main duties when using open source is the duty of notice. To this end, the following matters are performed: 
    
@@ -261,7 +261,7 @@ Notice step results
 These matters are reported to the relevant departments so that they can be included at the product's distribution. If there is a screen on the product, a user can check the content of the open source notice in Menu > Open Source Notice Information. If there is no screen on the product, the contents of the open source notice are to be included in the user manual.
 
 #### Step 8. Pre-Distributions Verifications
-<img src="/assets/img/Step 8. Pre-Distributions Verifications.jpg" alt='8'></img><br/>
+<img src="/assets/img/Step 8. Pre-Distributions Verifications.jpg" alt='8'><br/>
 
    In this step, checks are performed to ensure the following matters:
    
@@ -286,7 +286,7 @@ Pre-distribution verification step results
 ```
 
 #### Step 9. Distribution
-<img src="/assets/img/Step 9. Distribution.jpg" alt='9'></img><br/>
+<img src="/assets/img/Step 9. Distribution.jpg" alt='9'><br/>
    When the pre-distribution verification is completed, the source code package to be published is uploaded to the open source distribution site. It is possible to register by product and version on the open source distribution site. End users can search and download the source code package corresponding to the version of the product they want from the open source distribution site.
 
 ```
@@ -299,7 +299,7 @@ Distribution step results
 ```
 
 #### Step 10. Final Verifications
-<img src="/assets/img/Step 10. Final Verifications.jpg" alt='10'></img><br/>
+<img src="/assets/img/Step 10. Final Verifications.jpg" alt='10'><br/>
    After uploading the source code package to be published to the open-source distribution site, confirm whether the package has been uploaded correctly and whether it can be downloaded and decoded externally without errors. When building according to the license and guarantee of binary generation is requested, confirm whether the building the source code downloaded externally generates a binary without errors according to the instructions in the README, and whether the generated binary is the same as the binary loaded in the product.
  
  ```
